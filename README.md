@@ -14,7 +14,7 @@ Take a look at the `demo.html` for example markup.
 </div>
 ```
 
-Use the following CSS class's to define the menu button's transformed state:
+Use the following CSS classes to define the menu button's transformed state:
 
 - `left`
 - `right`
