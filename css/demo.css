@@ -1,0 +1,41 @@
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background: #5677fc;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 2px 5px rgba(0,0,0,.26);
+}
+
+header h1{
+    float: left;
+    font-size: 1.4em;
+    font-weight: normal;
+    color: #FFF;
+    margin: 17px 0;
+}
+
+#container{
+    padding: 80px 40px;
+    line-height: 24px;
+    font-size: 0.9em;
+}
+
+.material-burger{
+    float: left;
+    margin: 25px;
+}
+
+.material-burger span,
+.material-burger span:after,
+.material-burger span:before{
+    background: #FFF;
+}
