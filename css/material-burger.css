@@ -66,8 +66,8 @@
 }
 
 .material-burger.material-burger-transformed.down{
-	-webkit-transform: rotate(450deg);
-	transform: rotate(450deg);
+	-webkit-transform: rotate(90deg);
+	transform: rotate(90deg);
 }
 
 .material-burger.material-burger-transformed span:before {
